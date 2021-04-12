@@ -6,7 +6,7 @@ with open("README.md", "r") as fh:
 # Setup tools
 setuptools.setup(
      name='starify',
-     version='0.0.1b0',
+     version='0.0.1b1',
      author="Truong-Phat Nguyen",
      author_email="me@patrickphat.com",
      description="Starify: convert string to asterisks for confidentiality display",
