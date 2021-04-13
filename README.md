@@ -19,7 +19,7 @@ With Starify you can change how the starring would be performed.
 # Starify.star() by default parameter
 starify.star(
 	string,            	# Input your string here
-	star_percent = 0.6, # The portion of the string that will be starred
+	star_percent = 0.6,	# The portion of the string that will be starred
 	star_head = True, 	# Star from head (True) or tail (False),
 	max_len = 25, 		# Trim the string to max_len before starring,
 )
